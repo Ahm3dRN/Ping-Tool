@@ -1,0 +1,7 @@
+netaddr
+scapy
+termcolor
+subprocess
+colorama
+timeit
+sys
