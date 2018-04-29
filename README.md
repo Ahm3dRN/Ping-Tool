@@ -26,7 +26,7 @@ $ python -m pip install -r requirements.txt
 python ping-tool.py 
 ```
 
-  <h3>Start ping-tool with Python with arguments </h3>
+  <h3>Start ping-tool with Python using arguments: </h3>
 
 ```
 pingtool.py <ip-range> <type>
